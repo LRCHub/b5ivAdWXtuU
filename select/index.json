@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Rise Up High!",
+  "base_artist": "桜坂しずく (CV.前田佳織里)",
+  "createdAt": "2025-12-14T06:06:55.859048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Silver Sun Rise Up High",
+      "artist": "Nothing’s Carved in Stone",
+      "has_synced": true,
+      "path": "select/01_The_Silver_Sun_Rise_Up_High_Nothing’s_Carved_in_Stone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rise Up High!",
+      "artist": "桜坂しずく (CV.前田佳織里)",
+      "has_synced": true,
+      "path": "select/02_Rise_Up_High!_桜坂しずく_(CV.前田佳織里).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rise Up High!",
+      "artist": "桜坂しずく",
+      "has_synced": true,
+      "path": "select/03_Rise_Up_High!_桜坂しずく.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rise Up High!",
+      "artist": "桜坂しずく(CV.前田佳織里)",
+      "has_synced": true,
+      "path": "select/04_Rise_Up_High!_桜坂しずく(CV.前田佳織里).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rise Up High!",
+      "artist": "桜坂しずく(CV.前田佳織里)",
+      "has_synced": false,
+      "path": "select/pl_01_Rise_Up_High!_桜坂しずく(CV.前田佳織里).txt"
+    }
+  ]
+}
